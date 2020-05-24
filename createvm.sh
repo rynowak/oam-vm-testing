@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -eux
+set -eu
 
 if [[ "$#" -ne 2 ]]
 then
